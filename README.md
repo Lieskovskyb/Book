@@ -10,4 +10,4 @@ Kapitola 3
 Alex Lieskovský
 
 Kapitola 4
-Upravil som ti poslednú kapitolu 
+Upravil som ti poslednú kapitolu.
