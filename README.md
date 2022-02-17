@@ -7,8 +7,7 @@ Kapitola 2
 Benjamín Lieskovský.
 
 Kapitola 3
-Alex Lieskovský.
-Benjamím Alex Lieskovský.
+Zuzana Lieskovská.
 
 Kapitola 4
 Upravil som ti poslednú kapitolu.
