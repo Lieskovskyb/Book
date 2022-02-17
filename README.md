@@ -10,4 +10,4 @@ Kapitola 3
 Zuzana Lieskovská.
 
 Kapitola 4
-Upravil som ti poslednú kapitolu.
+Alex Lieskovský
