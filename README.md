@@ -1,12 +1,13 @@
 Knizka
 
 Kapitola 1
-Boris Lieskovský.
+Boris Lieskovský......
 
 Kapitola 2
 Benjamín Lieskovský.
 
 Kapitola 3
+Alex Lieskovský.....
 Alex Lieskovský.
 
 Kapitola 4
