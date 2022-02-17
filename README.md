@@ -7,7 +7,7 @@ Kapitola 2
 Benjamín Lieskovský
 
 Kapitola 3
-
+Alex Lieskovský
 
 Kapitola 4
 
