@@ -10,4 +10,4 @@ Kapitola 3
 Alex Lieskovský
 
 Kapitola 4
-Medzicasom som sem pridal do 4 kapitoly nieco
+Upravil som ti poslednú kapitolu 
