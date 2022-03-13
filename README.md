@@ -61,3 +61,4 @@ pm.response.to.have.status(404);
 });
 
 Tento test som robil v postman a prešiel
+pekný deň
